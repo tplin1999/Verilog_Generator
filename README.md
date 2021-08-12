@@ -5,6 +5,7 @@
 ### 檔案用途
   * main.cpp是主程式
   * cases資料夾裡面的資料是用來測試的資料
+  * ex_pic1、ex_pic2、ex_pic3和ex_pic4是用來作範例的圖片
 
 ### 使用方式
   1. 假設在桌面有一個叫做abc的資料夾，資料夾裡有main.cpp(主程式)和c17.bench(測試資料)<br>
