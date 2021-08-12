@@ -2,13 +2,11 @@
 
 > Verilog generator是一個 EDA工具，這個工具可以將 benchmark轉換成 Verilog的形式。
 
-## 檔案用途
+### 檔案用途
   * main.cpp是主程式
   * cases資料夾裡面的資料是用來測試的資料
-  * results資料夾裡面的資料是轉換後的資料<br><br>
-  例如:  _c17.bench透過主程式轉換後會變成 c17.v_ 
 
-### 使用範例
+### 使用方式
   1. 假設在桌面有一個叫做abc的資料夾，資料夾裡有main.cpp(主程式)和c17.bench(測試資料)<br>
   ![ex_pic1](https://github.com/tplin1999/Verilog_Generator/blob/main/ex_pic1.png)
   
